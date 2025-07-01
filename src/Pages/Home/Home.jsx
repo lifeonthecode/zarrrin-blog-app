@@ -2,6 +2,7 @@ import React from 'react';
 import Banner from '../../Components/Banner/Banner';
 import Technology from '../../Components/Technology/Technology';
 import RecentPost from '../../Components/RecentPost/RecentPost';
+import Newsletter from '../../Components/Newsletter/Newsletter';
 
 const Home = () => {
     return (
@@ -12,14 +13,19 @@ const Home = () => {
                 <Banner></Banner>
             </div>
 
-            {/* banner component  */}
+            {/* Technology component  */}
             <div>
                 <Technology/>
             </div>
 
-            {/* banner component  */}
+            {/* Recent post component  */}
             <div>
                 <RecentPost/>
+            </div>
+
+            {/* newsletter component  */}
+            <div>
+                <Newsletter/>
             </div>
         </div>
     );

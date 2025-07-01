@@ -13,10 +13,10 @@ const RecentPost = () => {
     console.log(filteringBlogs)
 
     return (
-        <div className="w-full flex items-center justify-center bg-white pb-[100px]">
+        <div className="w-full flex items-center justify-center bg-white pb-[100px] px-4">
             <div className="lg:container mx-auto">
 
-                <div className="flex items-center justify-between gap-10">
+                <div className="md:flex items-center justify-between gap-10 space-y-5 md:space-y-0">
 
                     {/* section Header  */}
                     <SectionHeader title={'Our Recent Post'} style={'flex items-center justify-star'} />
@@ -31,7 +31,7 @@ const RecentPost = () => {
                 <div className="md:flex items-center justify-between gap-12 md:space-y-0 space-y-8 mt-10">
 
                     {/* recent post left wrapper  */}
-                    <div className="max-w-[712px] min-h-[456px] h-full w-full">
+                    <div className="max-w-[712px] min-h-[456px] h-full w-full overflow-hidden">
                         <img src="/technology_image.jpg" className="h-full w-full object-cover rounded-2xl" alt="recent image" />
                     </div>
 

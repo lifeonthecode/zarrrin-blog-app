@@ -3,7 +3,7 @@ import { Link } from 'react-router';
 
 const Banner = () => {
     return (
-        <div className='w-full min-h-[796px] h-full bg-purple-ton-blue banner_section flex items-center justify-center mb-[100px] md:py-0 py-14'>
+        <div className='w-full min-h-[796px] h-full bg-purple-ton-blue banner_section flex items-center justify-center mb-[100px] md:py-0 py-14 px-4'>
             <div className="lg:container mx-auto ">
                 <div className="md:flex items-center justify-between gap-8 space-y-8 md:space-y-0">
                     {/* text wrapper  */}
