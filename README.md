@@ -13,6 +13,8 @@ This project is part of the **Zarrin Blog App** web application.
 
 📺 [YouTube Playlist (Full Project)](https://www.youtube.com/playlist?list=PLs50Ya1pVGvDAyiwlcepb69B-qqUQ7BaE)
 
+[📺 YouTube Channel](https://www.youtube.com/@lifeonthecode)
+
 ---
 
 ## 🛠️ Technologies Used
@@ -68,6 +70,6 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 
 🧑‍💻 Author
 Developed by Mohammod Juwel Islam
-[📺 YouTube]: (https://www.youtube.com/@lifeonthecode)
+
 
 
