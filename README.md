@@ -1,12 +1,73 @@
-# React + Vite
+# 🌐 Zarrin Blog App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Contact Page** built using **React JS**, **Tailwind CSS**, **React Icons**, and **Leaflet Map**.  
+This project is part of the **Zarrin Blog App** web application.
 
-Currently, two official plugins are available:
+![Zarrin Blog Screenshot](/web-app.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 [Live Site on Vercel](https://zarrrin-blog-7ca89re53-mohammodjuwelislams-projects.vercel.app/)
+
+📺 [YouTube Playlist (Full Project)](https://www.youtube.com/playlist?list=PLs50Ya1pVGvDAyiwlcepb69B-qqUQ7BaE)
+
+---
+
+## 🛠️ Technologies Used
+
+- ⚛️ **React JS** – Component-based frontend library  
+- 🎨 **Tailwind CSS** – Utility-first CSS framework  
+- 💡 **React Icons** – Beautifully integrated icons  
+- 🗺️ **Leaflet Map** – Interactive and customizable map  
+
+---
+
+## 📌 Features
+
+- Responsive contact page layout  
+- Embedded interactive map with Leaflet  
+- Clean and minimal UI  
+- Mobile-friendly design  
+- Custom icons using React Icons
+
+---
+
+## 📂 Folder Structure
+zarrin-blog-app/
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── App.js
+│ └── index.js
+├── package.json
+└── tailwind.config.js
+
+
+---
+
+## ▶️ Getting Started
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/your-username/zarrin-blog-app.git
+cd zarrin-blog-app
+
+Install dependencies
+npm start
+
+Build for production
+npm run build
+
+💬 Feedback
+If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+⭐ Star this repo if you found it helpful!
+
+🧑‍💻 Author
+Developed by Mohammod Juwel Islam
+📺 YouTube: Life on the Code
+
+
