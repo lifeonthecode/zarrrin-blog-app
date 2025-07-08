@@ -3,7 +3,7 @@
 A modern and responsive **Contact Page** built using **React JS**, **Tailwind CSS**, **React Icons**, and **Leaflet Map**.  
 This project is part of the **Zarrin Blog App** web application.
 
-![Zarrin Blog Screenshot](/web-app.png)
+![Zarrin Blog Screenshot](public/web-app.png)
 
 ---
 
