@@ -68,6 +68,6 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 
 🧑‍💻 Author
 Developed by Mohammod Juwel Islam
-📺 YouTube: https://www.youtube.com/@lifeonthecode
+[📺 YouTube]: (https://www.youtube.com/@lifeonthecode)
 
 
